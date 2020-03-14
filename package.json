@@ -2,7 +2,7 @@
   "name": "rule1app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://neverlastinger.github.io/rule1app/build/",
+  "homepage": ".",
   "dependencies": {
     "node-sass": "^4.13.0",
     "react": "^16.12.0",
